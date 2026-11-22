@@ -11,7 +11,7 @@ I’m a student and aspiring developer interested in **Python, artificial intell
 
 ## Open-source contribution
 
-[![FLISK HALL OF FAME @vidhua7 • 1 merged PR](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40vidhua7%20%E2%80%A2%201%20merged%20PR-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity)
+[![Founding Contributor #29 @vidhua7](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2329%20of%20100%20%E2%80%A2%20%40vidhua7&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 
 ## Featured projects
 
