@@ -9,6 +9,10 @@ I’m a student and aspiring developer interested in **Python, artificial intell
 - Strengthening my programming and software-development fundamentals
 - Learning through hands-on projects and open-source workflows
 
+## Open-source contribution
+
+[![FLISK HALL OF FAME @vidhua7 • 1 merged PR](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40vidhua7%20%E2%80%A2%201%20merged%20PR-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity)
+
 ## Featured projects
 
 - **[AI Study Assistant](https://github.com/vidhua7/ai-study-assistant)** — A Python project focused on supporting learning with AI.
