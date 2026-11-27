@@ -9,7 +9,7 @@ I'm a student learning software development by building projects and figuring th
 
 ## Technologies I've used
 
-`Python` · `Flask` · `Streamlit` · `SQLite` · `HTML` · `Google Gemini API`
+`Python` · `Flask`  · `SQLite` ·
 
 ## Open source
 
