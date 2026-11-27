@@ -15,4 +15,4 @@ I'm a student learning software development by building projects and figuring th
 
 [![Founding Contributor #29 @vidhua7](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2329%20of%20100%20%E2%80%A2%20%40vidhua7&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 
-I contributed a fix to Flisk's resource command so re-running it preserves an existing resource's type and port.
+
